@@ -1,0 +1,6 @@
+pyproject.toml
+src/doc_intel_agent/__init__.py
+src/doc_intel_agent.egg-info/PKG-INFO
+src/doc_intel_agent.egg-info/SOURCES.txt
+src/doc_intel_agent.egg-info/dependency_links.txt
+src/doc_intel_agent.egg-info/top_level.txt
